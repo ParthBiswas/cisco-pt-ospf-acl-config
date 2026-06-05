@@ -11,8 +11,7 @@ The network architecture comprises the following infrastructure:
 
 **Traffic Flow:** `PC0` -> `Switch0` -> `Router0` -> `Router1` -> `Switch1` -> `Servers`
 
-![Network Topology](screenshots/Screenshot_2026-05-31_112412.png) 
-*(Note: Rename your screenshot files in the repository and update this path accordingly)*
+[Network Topology](screenshots/router1-acl-config.png) 
 
 ## 🖧 IP Addressing Scheme
 

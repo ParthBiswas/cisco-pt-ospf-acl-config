@@ -33,12 +33,11 @@ Router(config)# router ospf 1
 Router(config-router)# network 192.168.1.0 0.0.0.255 area 0
 Router(config-router)# network 10.0.0.0 0.0.0.255 area 0
 
-
-## 👨‍💻 Author
-
-**Parth Biswas**
-* **GitHub:** [@ParthBiswas](https://github.com/ParthBiswas)
-* **LinkedIn:** [ParthBiswas](https://www.linkedin.com/in/parthubiswas)
+```
+# 👨‍💻 Author: Parth Biswas
+  GitHub: [@ParthBiswas](https://github.com/ParthBiswas)
+  <br>
+  LinkedIn: [ParthBiswas](https://www.linkedin.com/in/parthubiswas)
 
 ---
 *If you found this lab helpful, feel free to leave a ⭐ on the repository!*
